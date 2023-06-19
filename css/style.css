@@ -129,15 +129,15 @@ footer {
   border: 2px dashed white;
 }
 
-.logo {
+/* .logo {
   width: 25%;
   height: 100%;
-}
+} */
 
-.link {
+/* .link {
   width: 50%;
   height: 100%;
-}
+} */
 
 ul {
   list-style-type: none;
@@ -152,7 +152,12 @@ a {
   color: black;
 }
 
-.login {
+/* .login {
   width: 25%;
   height: 100%;
+} */
+
+.flex-between {
+  justify-content: space-between;
+  align-items: center;
 }
