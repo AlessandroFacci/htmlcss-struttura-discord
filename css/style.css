@@ -133,3 +133,21 @@ footer {
   width: 25%;
   height: 100%;
 }
+
+.link {
+  width: 50%;
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
