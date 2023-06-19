@@ -28,3 +28,9 @@ header {
   justify-content: center;
   align-items: center;
 }
+
+.first-section {
+  width: 100%;
+  height: 550px;
+  background-color: #00008b;
+}
