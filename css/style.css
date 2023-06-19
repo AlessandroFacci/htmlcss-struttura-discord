@@ -80,3 +80,9 @@ header {
   height: 800px;
   background-color: #228b22;
 }
+
+footer {
+  width: 100%;
+  height: 850px;
+  background-color: #23272a;
+}
