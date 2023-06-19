@@ -124,3 +124,7 @@ footer {
 .black-dashed {
   border: 2px dashed black;
 }
+
+.white-dashed {
+  border: 2px dashed white;
+}
