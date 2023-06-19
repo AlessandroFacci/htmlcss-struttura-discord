@@ -128,3 +128,8 @@ footer {
 .white-dashed {
   border: 2px dashed white;
 }
+
+.logo {
+  width: 25%;
+  height: 100%;
+}
