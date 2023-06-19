@@ -41,7 +41,8 @@ header {
   background-color: #ee82ee;
 }
 
-.second-section {
+.second-section,
+.fourth-section {
   width: 100%;
   height: 800px;
   background-color: white;
