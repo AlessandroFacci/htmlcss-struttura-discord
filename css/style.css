@@ -57,3 +57,8 @@ header {
   width: 60%;
   background-color: #1e90ff;
 }
+
+.small-col {
+  width: 40%;
+  background-color: #ffc0cb;
+}
