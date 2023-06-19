@@ -90,5 +90,16 @@ footer {
 .footer-container {
   width: 1000px;
   height: 800px;
-  background-color: white;
+}
+
+#col-footer {
+  width: 30%;
+  height: 100%;
+  background-color: #f08080;
+}
+
+.col-container-f {
+  width: 17.5%;
+  height: 100%;
+  background-color: #20b2aa;
 }
