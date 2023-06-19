@@ -112,3 +112,9 @@ footer {
   background-color: #23272a;
   border-top: 2px solid white;
 }
+
+.end {
+  width: 1000px;
+  height: 100px;
+  background-color: #7fffd4;
+}
