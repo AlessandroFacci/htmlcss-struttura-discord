@@ -156,3 +156,8 @@ a {
   justify-content: space-between;
   align-items: center;
 }
+
+.logo-end {
+  padding: 5px 10px;
+  background-color: #ffb6c1;
+}
