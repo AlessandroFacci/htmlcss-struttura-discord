@@ -151,3 +151,8 @@ a {
   text-decoration: none;
   color: black;
 }
+
+.login {
+  width: 25%;
+  height: 100%;
+}
