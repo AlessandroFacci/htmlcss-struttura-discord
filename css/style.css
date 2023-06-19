@@ -98,6 +98,7 @@ footer {
   width: 30%;
   height: 100%;
   background-color: #f08080;
+  border: 2px dashed black;
 }
 
 .col-container-f {
@@ -118,4 +119,8 @@ footer {
   height: 80px;
   background-color: #7fffd4;
   margin-top: 45px;
+}
+
+.black-dashed {
+  border: 2px dashed black;
 }
