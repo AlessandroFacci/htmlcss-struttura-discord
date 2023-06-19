@@ -52,3 +52,8 @@ header {
   height: 700px;
   border: 1px solid black;
 }
+
+.large-col {
+  width: 60%;
+  background-color: #1e90ff;
+}
