@@ -86,3 +86,9 @@ footer {
   height: 850px;
   background-color: #23272a;
 }
+
+.footer-container {
+  width: 1000px;
+  height: 800px;
+  background-color: white;
+}
