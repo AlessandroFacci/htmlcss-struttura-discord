@@ -52,12 +52,12 @@ header {
   height: 700px;
 }
 
-.large-col1 {
+.large-col {
   width: 60%;
   background-color: #1e90ff;
 }
 
-.small-col1 {
+.small-col {
   width: 40%;
   background-color: #ffc0cb;
 }
